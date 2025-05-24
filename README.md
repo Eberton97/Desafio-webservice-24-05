@@ -18,4 +18,4 @@ Este repositório contém a resolução das 6 etapas propostas no desafio de Web
 ### 2. Buscar informações de um usuário específico
 **Método:** GET  
 **Endpoint:** `https://dummyjson.com/users/1`  
-![2 - Buscar usuário](./2-buscar-usuario.png)
+![2 - Buscar usuário](![Image](https://github.com/user-attachments/assets/ffbba638-9ed6-48bb-9471-a40626050915))
