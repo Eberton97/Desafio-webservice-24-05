@@ -22,4 +22,4 @@ Este repositório contém a resolução das 6 etapas propostas no desafio de Web
 ### 3. Criar um novo usuário
 **Método:** POST  
 **Endpoint:** `https://dummyjson.com/users/add`  
-![3 - Criar usuário]()
+![3 - Criar usuário](![Image](https://github.com/user-attachments/assets/cca0e3aa-eaa5-4252-b911-8dd5367e763e)
