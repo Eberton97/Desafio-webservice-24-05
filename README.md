@@ -12,10 +12,14 @@ Este repositório contém a resolução das 6 etapas propostas no desafio de Web
 **Endpoint:** `https://dummyjson.com/users`  
 ![1 - Lista de usuários](https://github.com/user-attachments/assets/d4cd5510-7eab-4c35-9cb7-9eb22e029c51)
 
-
----
-
 ### 2. Buscar informações de um usuário específico
 **Método:** GET  
 **Endpoint:** `https://dummyjson.com/users/1`  
 ![2 - Buscar usuário](![Image](https://github.com/user-attachments/assets/ffbba638-9ed6-48bb-9471-a40626050915)
+
+---
+
+### 3. Criar um novo usuário
+**Método:** POST  
+**Endpoint:** `https://dummyjson.com/users/add`  
+![3 - Criar usuário]()
