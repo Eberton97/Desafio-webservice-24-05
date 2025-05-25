@@ -38,4 +38,5 @@ Este repositório contém a resolução das 6 etapas propostas no desafio de Web
 **Método:** GET  
 **Endpoint:** `https://dummyjson.com/auth/me`  
 **Header:** Authorization: Bearer `SEU_TOKEN`  
-![6 - Dados logado](https://github.com/Eberton97/Desafio-webservice-24-05/issues/6)
+![6 - Dados logado]
+(https://github.com/Eberton97/Desafio-webservice-24-05/issues/6)
