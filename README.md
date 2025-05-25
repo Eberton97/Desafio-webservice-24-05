@@ -28,3 +28,8 @@ Este repositório contém a resolução das 6 etapas propostas no desafio de Web
 **Método:** PUT  
 **Endpoint:** `https://dummyjson.com/users/1`  
 ![4 - Atualizar senha](![Image](https://github.com/user-attachments/assets/a19e88b5-6b2f-4f38-b81c-2479de7616af)
+
+### 5. Fazer login com Michael Michaels (ou outro usuário funcional)
+**Método:** POST  
+**Endpoint:** `https://dummyjson.com/auth/login`  
+![5 - Login]()
