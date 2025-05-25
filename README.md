@@ -23,3 +23,8 @@ Este repositório contém a resolução das 6 etapas propostas no desafio de Web
 **Método:** POST  
 **Endpoint:** `https://dummyjson.com/users/add`  
 ![3 - Criar usuário](![Image](https://github.com/user-attachments/assets/cca0e3aa-eaa5-4252-b911-8dd5367e763e)
+
+### 4. Atualizar a senha de um usuário
+**Método:** PUT  
+**Endpoint:** `https://dummyjson.com/users/1`  
+![4 - Atualizar senha](![Image](https://github.com/user-attachments/assets/a19e88b5-6b2f-4f38-b81c-2479de7616af)
