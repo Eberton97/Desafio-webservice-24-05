@@ -38,4 +38,9 @@ Este repositório contém a resolução das 6 etapas propostas no desafio de Web
 **Método:** GET  
 **Endpoint:** `https://dummyjson.com/auth/me`  
 **Header:** Authorization: Bearer `SEU_TOKEN`  
-![6 - Dados logado]![Image](https://github.com/user-attachments/assets/f50bfde2-3b44-41fa-adc6-9c7c141da4b3)
+![6 - Dados logado]
+![Image](https://github.com/user-attachments/assets/31b05076-e769-4744-8c6e-5342536d0875)
+
+ou 
+
+![Image](https://github.com/user-attachments/assets/f50bfde2-3b44-41fa-adc6-9c7c141da4b3)
