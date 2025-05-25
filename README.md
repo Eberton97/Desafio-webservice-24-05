@@ -32,4 +32,4 @@ Este repositório contém a resolução das 6 etapas propostas no desafio de Web
 ### 5. Fazer login com Michael Michaels (ou outro usuário funcional)
 **Método:** POST  
 **Endpoint:** `https://dummyjson.com/auth/login`  
-![5 - Login]()
+![5 - Login](![Image](https://github.com/user-attachments/assets/cf50134a-46b8-4dcc-abb7-798a473b5910)
